@@ -5,7 +5,7 @@ function growingRow(array) {
     console.log(array);
 }
 
-// growingRow([3,4,3,21,5,7,2,1])
+growingRow([3,4,3,21,5,7,2,1])
 
 //! Task 2
 
@@ -18,7 +18,7 @@ function checkArrayContains(array1, array2) {
     return console.log(true);;
 }
 
-// checkArrayContains([1,2,3,4,5],[1,1,2,3,5])
+checkArrayContains([1,2,3,4,5],[1,1,2,3,5])
 
 //! Task 3
 
